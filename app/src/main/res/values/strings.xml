@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Testing Github</string>
-    <string name="hello_world">El Buelna se la loncha :D</string>
+    <string name="hello_world">El Buelna se la loncha!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
